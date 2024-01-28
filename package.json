@@ -1,4 +1,4 @@
-{
+proxmark3 /dev/ttyACM0 --flash --unlock-bootloader --image bootrom.elf --image fullimage.elf
   "name": "project-template-nuxt",
   "version": "1.0.0",
   "private": true,
